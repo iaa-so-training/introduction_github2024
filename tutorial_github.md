@@ -3,7 +3,7 @@
 **Table of contents**
 
 [0. Pre-requisites. Create a Github account](#createaccount)  
-[1. Creating a new repository and configure the main options](#Creatinganewrepositoryandconfigurethemainoptions)  
+[1. Creating a new repository and configure the main options](#createrepo)  
 [2. Adding content to our repository](#Addingcontenttoourrepository)  
 [3. Working with the version history](#Workingwiththeversionhistory)  
 [4. Collaborating with other users and repositories](#Collaboratingwithotherusersandrepositories)  
@@ -45,7 +45,7 @@ To create a GitHub account for the first time, follow the six steps below.
 
 
 
-# 1. <a name='Creatinganewrepositoryandconfigurethemainoptions'></a>Creating a new repository and configure the main options
+# 1. <a name='createrepo'></a>Creating a new repository and configure the main options
 
 
 We want to create a repository named `hello-world` where you can store ideas, resources, or even share and discuss things with others. To do that:
