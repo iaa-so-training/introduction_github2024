@@ -15,7 +15,6 @@ Session 1 on November 26:
 - Javier Cerezuela Mora
 - José María Gómez-Limón Gallardo
 - Giovanni MIROUH
-- Elham Ziaali
 
 Session 2 on December 11:
 - Edgar Joao
@@ -25,3 +24,4 @@ Session 2 on December 11:
 - José Manuel Gavilán Sánchez
 - Betelehem Bilata Woldeyes
 - María Passas Varo
+- Cayetano Vico Medina
